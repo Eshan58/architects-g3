@@ -189,7 +189,16 @@ main > section{
 .sponsor-companies img{
     filter: grayscale(100%);
 }
-
+/* footer styles */
+.footer-des{
+    background-color: bisque;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.last-part{
+    padding-top: 100px;
+}
 
 /* responsive media query */
 @media screen and (max-width: 576px) {
